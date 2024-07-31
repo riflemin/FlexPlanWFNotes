@@ -3,3 +3,6 @@ The following Links helped greatly with my understanding of Monte Carlo Markov C
 - https://www.youtube.com/watch?v=yCv2N7wGDCw (Metropolis-Hastings, newer method of metropolis rule) 
 - https://www.youtube.com/watch?v=yApmR-c_hKU (MCMC explained, Gibbs sampling) -> Gibbs sampling not used, but could be good to know. It is another method of a random walk. 
 - Code and Pseudocode for Metropolis Hastings in Python: https://exowanderer.medium.com/metropolis-hastings-mcmc-from-scratch-in-python-c21e53c485b7 
+The following repos were also helpful for theory and coding:
+- https://github.com/TikhonJelvis/RL-book/tree/master/book
+- https://github.com/mfrdixon/ML_Finance_Codes
