@@ -1,0 +1,5 @@
+The following Links helped greatly with my understanding of Monte Carlo Markov Chains and their use cases:
+- https://www.youtube.com/watch?v=vTUwEu53uzs (MCMC Framework, pipeline, metropolis rule) * used in Code.   -> Metropolis Rule is used to conduct random walk. 
+- https://www.youtube.com/watch?v=yCv2N7wGDCw (Metropolis-Hastings, newer method of metropolis rule) 
+- https://www.youtube.com/watch?v=yApmR-c_hKU (MCMC explained, Gibbs sampling) -> Gibbs sampling not used, but could be good to know. It is another method of a random walk. 
+- Code and Pseudocode for Metropolis Hastings in Python: https://exowanderer.medium.com/metropolis-hastings-mcmc-from-scratch-in-python-c21e53c485b7 
